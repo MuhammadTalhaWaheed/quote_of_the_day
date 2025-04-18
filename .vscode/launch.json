@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Example App",
+        "request": "launch",
+        "type": "dart",
+        "program": "QUOTE_OF_THE_DAY/lib/quote_of_the_day.dart"
+      }
+    ]
+  }
+  
