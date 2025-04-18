@@ -17,10 +17,4 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-  plugin:
-    platforms:
-      android:
-        package: com.example.quote_of_the_day
-        pluginClass: QuoteOfTheDayPlugin
-      ios:
-        pluginClass: QuoteOfTheDayPlugin
+  # No platform-specific plugin class needed
