@@ -4,13 +4,14 @@ version: 0.0.1
 publish_to: 'https://pub.dev'
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: '>=2.18.0 <3.0.0'
   flutter: ">=2.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   http: ^0.13.3
+  flutter_dotenv: ^5.0.2
 
 dev_dependencies:
   flutter_test:
@@ -18,3 +19,5 @@ dev_dependencies:
 
 flutter:
   # No platform-specific plugin class needed
+homepage: 'https://github.com/MuhammadTalhaWaheed/quote_of_the_day'
+repository: 'https://github.com/MuhammadTalhaWaheed/quote_of_the_day'
